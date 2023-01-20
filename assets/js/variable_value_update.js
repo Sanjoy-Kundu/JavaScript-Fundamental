@@ -34,3 +34,8 @@ var price_three = 1000;
 price_three *= 3;
 console.log(price_three);
 
+
+//ShortHand Division 
+var price_four = 2000;
+price_four /= 10;
+console.log(price_four);

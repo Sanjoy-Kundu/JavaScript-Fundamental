@@ -40,3 +40,11 @@ var shirtPrice = perShirtPrice * shirtQuantity;
 console.log(shirtPrice);
 
 
+//Javascript Division 
+var totalFruits = 300;
+var children = 112;
+var perChild = totalFruits / children;
+console.log(perChild);
+
+
+

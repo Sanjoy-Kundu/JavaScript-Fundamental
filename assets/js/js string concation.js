@@ -22,3 +22,8 @@ var finalResult = firstNumber + secondNumber;
 console.log(finalResult);
 
 
+//Number added
+var number_one = 200;
+var number_two = 20;
+var result = number_one + number_two;
+console.log(result);

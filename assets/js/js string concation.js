@@ -12,3 +12,13 @@ var name_one = "Bijoy";
 var name_two = "Kumar";
 var finalName = name_one + " " + name_two;
 console.log(finalName);
+
+
+
+//Number as String 
+var firstNumber = "10";
+var secondNumber = "20";
+var finalResult = firstNumber + secondNumber;
+console.log(finalResult);
+
+

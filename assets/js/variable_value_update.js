@@ -39,3 +39,13 @@ console.log(price_three);
 var price_four = 2000;
 price_four /= 10;
 console.log(price_four);
+
+
+
+//Shorthand Modulus
+var price_five = 100;
+price_five %= 2;
+console.log(price_five);
+
+
+

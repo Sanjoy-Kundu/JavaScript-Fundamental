@@ -24,3 +24,19 @@ var eggPrice = 10;
 var netPrice = fishPrice + vegetablePrice + eggPrice;
 console.log(netPrice);
 
+
+
+//JavaScript Substruction
+var pocketMoney = 1000;
+var productPrice = 950;
+var money = pocketMoney - productPrice;
+console.log(money);
+
+
+//JavaScript Multiplication
+var perShirtPrice = 1050;
+var shirtQuantity = 7;
+var shirtPrice = perShirtPrice * shirtQuantity;
+console.log(shirtPrice);
+
+

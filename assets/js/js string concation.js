@@ -38,3 +38,10 @@ console.log(resultInteger);
 var sixGpa = 5.45;
 var sixGpaInteger = parseInt(sixGpa);
 console.log(sixGpaInteger);
+
+
+
+//Floating Point 
+var totalMango = 88.99;
+var mangoFloat = parseFloat(totalMango);
+console.log(mangoFloat);

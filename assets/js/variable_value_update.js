@@ -48,4 +48,9 @@ price_five %= 2;
 console.log(price_five);
 
 
+//Increment Operator 
+var price_six = 10;
+price_six++;
+console.log(price_six);
+
 

@@ -54,3 +54,8 @@ price_six++;
 console.log(price_six);
 
 
+//decrement Operator
+var price_seven = 20;
+price_seven--;
+console.log(price_seven);
+

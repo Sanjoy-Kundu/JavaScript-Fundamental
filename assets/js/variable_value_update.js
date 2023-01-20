@@ -28,3 +28,9 @@ var price_two = 1000;
 price_two -= 200;
 console.log(price_two);
 
+
+//ShortHand Multiple
+var price_three = 1000;
+price_three *= 3;
+console.log(price_three);
+

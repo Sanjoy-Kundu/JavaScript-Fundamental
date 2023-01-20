@@ -27,3 +27,14 @@ var number_one = 200;
 var number_two = 20;
 var result = number_one + number_two;
 console.log(result);
+
+
+
+//Integer = 1, 2, 3, 4...
+var result = 987;
+var resultInteger = parseInt(result);
+console.log(resultInteger);
+
+var sixGpa = 5.45;
+var sixGpaInteger = parseInt(sixGpa);
+console.log(sixGpaInteger);

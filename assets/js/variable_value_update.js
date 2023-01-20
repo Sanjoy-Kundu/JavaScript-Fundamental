@@ -15,3 +15,16 @@ console.log(ricePrice); // 55
 //rice price add 10 taka
 ricePrice = ricePrice + 10;
 console.log(ricePrice); //65
+
+
+//Addition to the previous variable 
+// Shorthand add
+var price_one = 210
+price_one += 10; // price_one = price_one+10
+console.log(price_one);
+
+//ShortHand sub
+var price_two = 1000;
+price_two -= 200;
+console.log(price_two);
+
